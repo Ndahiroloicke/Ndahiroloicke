@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Ndahiroloicke
+- 👀 I’m a tech enthusiast
+- 🌱 I’m developing on collaborative modern technology
+- 💞️ I’m looking to collaborate on open-source and active projects
+- 📫 How to reach me contact me direct: ndahiroloicke@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Intuitive code, resembles fresh air !
