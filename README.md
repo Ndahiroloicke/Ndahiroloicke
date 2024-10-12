@@ -27,6 +27,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/saas/saas-original.svg" alt="saas" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
  </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Ndahiroloicke"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ndahiroloicke" /></a></p><br><br>
