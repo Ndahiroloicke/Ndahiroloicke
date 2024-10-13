@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ndahiroloicke</h1>
 <h3 align="center">A passionate FullStack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ndahiroloicke&label=Profile%20views&color=0e75b6&style=flat" alt="ndahiroloicke" /> </p>
 
 - 🔭 I’m currently working on [Etix](https://github.com/ETix-23)
 
