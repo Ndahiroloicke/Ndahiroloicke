@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Ndahiroloicke](https://github.com/Ndahiroloicke)
 
-- 💬 Ask me about **React, JavaScript, PHP, TypeScript, Next.js, Redux**
+- 💬 Ask me about **Frontend , Backend, Programming**
 
 - 📫 How to reach me: **ndahiroloicke@gmail.com**
 
