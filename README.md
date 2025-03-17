@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ETix](https://github.com/ETix-23)
 
-- 🌱 I’m currently learning **Flutter, NestJS, and Tensorflow**
+- 🌱 I’m currently in love with **Flutter, NestJS, and Tensorflow**
 
 - 👯 I’m looking to collaborate on **open-source and active projects**
 
